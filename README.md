@@ -64,7 +64,7 @@ resume_project/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Resume-Screening-System.git
+git clone https://github.com/catshg/AI-Autonomous-Interview-Panel
 ```
 
 Go into the project
